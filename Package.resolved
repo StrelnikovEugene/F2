@@ -1,0 +1,15 @@
+{
+  "originHash" : "c3f96b3115990e1eab81aab731163d3dd793fbb339cbc103bbde0a5d792c335d",
+  "pins" : [
+    {
+      "identity" : "f1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StrelnikovEugene/F1",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dbbac545d62353ccef48450e5626be5b505a3a6e"
+      }
+    }
+  ],
+  "version" : 3
+}
